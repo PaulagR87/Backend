@@ -1,1 +1,0 @@
-[{"title":"Campera","price":10000,"thumbnail":"shorturl.at/qvzM6","id":2},{"title":"Botas","price":9000,"thumbnail":"shorturl.at/crCRY","id":3}]},{"title":"Botas","price":9000,"thumbnail":"shorturl.at/crCRY","id":3}]
